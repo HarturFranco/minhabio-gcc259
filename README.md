@@ -1,5 +1,6 @@
+![Users foto](https://user-images.githubusercontent.com/73862911/205532467-6871a5a8-4562-49d8-8942-938e35f35d16.jpg)
 # Arthur Silveira Franco
-Desenvolvedor Web - Junior / Front-end e Back-end.
+***Estudante no curso de Ciência da Computação.***
 
 :house:    Lavras/MG <br>
 :iphone:   (37) 9 9937-2710 <br>
@@ -46,19 +47,19 @@ Monitor.
 **Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG, Formiga, Brazil** -
   * Desenvolvedor de Jogos para projeto acadêmico.
   * Durante o ano letivo de 2018, tive a oportunidade de trabalhar em um projeto de desenvolvimento de um jogo para dispositivos moveis como trabalho de conclusão do curso técnico em Informática. O projeto foi apresentado na VIII Jornada de Educação, Ciência e Tecnologia do IFMG-Campus Formiga.
-  * Link para o artigo: https://drive.google.com/file/d/1Sj5cHDh50c5CzOnU3HoYQUJwMIaKUcFw/view (página 132).
+  * [Link para o artigo](https://drive.google.com/file/d/1Sj5cHDh50c5CzOnU3HoYQUJwMIaKUcFw/view) (página 132).
   * Technologias: Python, GDScript, GODOT, SQL.
   
 * (2018) <br>
 **Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG, Formiga, Brazil** -
   * Desenvolvedor Mobile em projeto acadêmico.
   * Durante o ano letivo de 2018, tive a oportunidade de trabalhar em um projeto de desenvolvmento de um aplicativo para cadastro e moderação de ocorrências em ambientes urbanos. O projeto foi apresentado na VIII Jornada de Educação, Ciência e Tecnologia do IFMG-Campus Formiga.
-  * Link para o artigo: https://drive.google.com/file/d/1Sj5cHDh50c5CzOnU3HoYQUJwMIaKUcFw/view (página 115).
+  * [Link para o artigo](https://drive.google.com/file/d/1Sj5cHDh50c5CzOnU3HoYQUJwMIaKUcFw/view) (página 115).
   * Technologias: Java, SQL, Google Firebase, Android Studio.
   
 * (2017 - 2018) <br>
 **Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG, Formiga, Brazil** -
-Bolsista em projeto de extenção PIBEX..
+Bolsista em projeto de extenção PIBEX.
   * Bolsisa no projeto de extenção PIBEX: Informática aplicada à educação.
   * Principais atividades: Planejamento e revitalisação do laboratorio da escola municipal José Honorato e aplicação da infomática aplicada a demais disciplinas atraves de jogos educativos.
   
