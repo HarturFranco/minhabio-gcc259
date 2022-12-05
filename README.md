@@ -62,6 +62,12 @@ Monitor.
 Bolsista em projeto de extenção PIBEX.
   * Bolsisa no projeto de extenção PIBEX: Informática aplicada à educação.
   * Principais atividades: Planejamento e revitalisação do laboratorio da escola municipal José Honorato e aplicação da infomática aplicada a demais disciplinas atraves de jogos educativos.
-  
+ 
+## Informações Adicionais
+
+* Inglês: 
+  * Entendimento: Avançado;
+  * Fala: Intermediário;
+  * Escrita: Intermediário.
   
   
